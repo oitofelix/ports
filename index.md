@@ -42,8 +42,8 @@ the one I chose to embed in
 [MININIM](http://oitofelix.github.io/mininim/).  This port includes
 both, the interactive interpreter and the compiler.
 
-- Binaries: [lua-5-0-3.zip](https://github.com/oitofelix/ports/releases/download/Release/lua-5-0-3.zip)
-- Official website: http://www.lua.org/
+- [lua-5-0-3.zip](https://github.com/oitofelix/ports/releases/download/Release/lua-5-0-3.zip)
+- [Homepage](http://www.lua.org/)
 
 ### Metamath
 
@@ -61,7 +61,7 @@ Windows CE 3.0 doesn't implement virtual memory paging, large
 databases (like `set.mm`) exhaust memory even on 64 Mb (like Jornada
 728) devices.
 
-- Binaries: [metamath-0-144.zip](https://github.com/oitofelix/ports/releases/download/Release/metamath-0-144.zip)
-- Official website: http://metamath.org/
+- [metamath-0-144.zip](https://github.com/oitofelix/ports/releases/download/Release/metamath-0-144.zip)
+- [Homepage](http://metamath.org/)
 
 </div>
