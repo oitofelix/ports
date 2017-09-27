@@ -1,0 +1,3 @@
+baseurl: /ports
+highlighter: pygments
+exclude: ['platforms', 'plugins']
