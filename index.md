@@ -10,7 +10,9 @@ base: http://oitofelix.github.io
 #base_local: http://localhost:4000
 ---
 <div id="markdown" markdown="1">
-## Handheld PC 2000 (Windows CE 3.0 ARM --- Jornada 720/728)
+## Ports
+
+### Handheld PC 2000 (Windows CE 3.0 ARM --- Jornada 720/728)
 
 These ports were made using the
 [mingw32ce](http://cegcc.sourceforge.net/) cross-compilation toolchain
@@ -32,7 +34,7 @@ tiny modifications to the source code nor the (often trivial) build
 recipes.  However, in case you do care about that, please let me know
 and I'll make them available.
 
-### Lua 5.0.3
+#### Lua 5.0.3
 
 This is the latest revision of the original Lua interpreter 5.0
 series, released on 26 Jun 2006.  Currently, this is the only one for
@@ -45,7 +47,7 @@ both, the interactive interpreter and the compiler.
 - [lua-5-0-3.zip](https://github.com/oitofelix/ports/releases/download/Release/lua-5-0-3.zip)
 - [Homepage](http://www.lua.org/)
 
-### Metamath
+#### Metamath
 
 This is the canonical interactive program used to write and verify
 formal mathematical proofs written in the Metamath language.  This is
