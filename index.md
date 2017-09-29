@@ -1,7 +1,7 @@
 ---
 title: oitofelix - Ports
 description: >
-  Software Ports to Eccentric Platforms
+  Software ports to eccentric platforms
 tags: >
   Windows CE 3.0 ARM, Handheld PC 2000
 license: CC BY-SA 4.0
